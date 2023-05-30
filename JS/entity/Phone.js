@@ -1,0 +1,9 @@
+/*
+id identity
+name string
+brand Brand
+phoneDetail PhoneDetail
+price double
+
+
+*/
